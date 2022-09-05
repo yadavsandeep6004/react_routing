@@ -1,0 +1,18 @@
+/* .desktop-Nav {
+  
+} */
+
+.desktop-Nav ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+ 
+}
+.desktop-Nav ul li {
+  padding: 0 10px;
+}
+
+.desktop-Nav ul li a {
+  text-decoration: none;
+  color: black;
+}

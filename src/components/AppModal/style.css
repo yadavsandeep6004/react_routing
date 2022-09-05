@@ -1,0 +1,12 @@
+.appmodal {
+  text-align: end;
+}
+
+.close {
+  text-align: end;
+  cursor: pointer;
+}
+
+.open {
+  cursor: pointer;
+}

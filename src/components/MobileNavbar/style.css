@@ -1,0 +1,14 @@
+.mobile-Nav ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.mobile-Nav ul li {
+  padding: 10px 10px;
+}
+
+.mobile-Nav ul li a {
+  text-decoration: none;
+  color: black;
+}

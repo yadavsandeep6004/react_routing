@@ -1,0 +1,10 @@
+.logout {
+  outline: none;
+  border: 0;
+  background-color: inherit;
+  margin-left: 10px;
+}
+.logout svg {
+  width: 20px;
+  height: 20px;
+}
